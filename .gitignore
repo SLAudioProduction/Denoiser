@@ -1,0 +1,13 @@
+# Środowisko wirtualne Pythona
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dane i wagi modelu (bardzo ważne!)
+data/
+checkpoints/
+
+# Pliki konfiguracyjne IDE
+.vscode/
+.idea/
